@@ -1,7 +1,7 @@
 import React, { useEffect, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { Context } from "../store/appContext";
-import imagination from "../../img/imagine.png";
+import imagination from "../../img/10b345ce23506d993f8f5690778644d2-2691208475.jpg";
 import "../../styles/Private.css";
 
 export const Private = () => {
